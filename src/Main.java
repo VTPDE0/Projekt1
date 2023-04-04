@@ -4,6 +4,6 @@ public class Main {
         erster.setzHoehe(7f);
         float x= erster.getHoehe();
         //System.out.println("Anzahl beine: " + erster.getBeine());
-        System.out.println("Anzahl Schrauben: " + erster.getSchrauben());
+        System.out.println("Anzahl Schrauben: " + erster.getSchrauben()); //hi
     }
 }
